@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCaqhHWHYro=",
+  "success": true,
+  "projectFilePath": "C:\\GitHub Projetcs\\PersonalFinanceApp\\src\\PersonalFinance.API\\PersonalFinance.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
